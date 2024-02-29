@@ -10,3 +10,4 @@ meetupUrl: https://www.meetup.com/de-DE/berlin-hack-and-tell/events/299314835
 
 Upcoming - please [RSVP here](https://www.meetup.com/de-DE/berlin-hack-and-tell/events/299314835)
 
+* [thefoodiespace](https://github.com/strathausen/tomatovillage) by [Philipp](https://www.stratha.us)
